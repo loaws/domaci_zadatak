@@ -19,7 +19,7 @@ using System;
 
 class Program
 {
-static void Main()
+ static void Main()
 {
 Console.Write("Unesi površinu P: ");
 double P = Convert.ToDouble(Console.ReadLine());
