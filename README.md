@@ -37,26 +37,26 @@ $$
      } 
     }
  
-Тест примери
+###Тест примери
 
-Тест пример 1 
-Unesi povrsinu P: 10
-Unesi visinu h: 2
-Zapremina kupe je: 6.66666666666667
+    Тест пример 1 
+    Unesi povrsinu P: 10
+    Unesi visinu h: 2
+    Zapremina kupe je: 6.66666666666667
 
-Press any key to continue . . .
+    Press any key to continue . . .
 
 
-Тест пример 2
-Unesi povrsinu P: 15
-Unesi visinu h: 3
-Zapremina kupe je: 15
+    Тест пример 2
+    Unesi povrsinu P: 15
+    Unesi visinu h: 3
+    Zapremina kupe je: 15
 
-Press any key to continue . . .
+    Press any key to continue . . .
 
-Објекти
-| Назив променљиве |   Тип   | Опис |
-| 1. P             | double  | Површина основе купе |
-| 2. h             | double  | Висина купе |
-| 3.  V            | double  | Израчунава се као запремина купе |
+    Објекти
+    | Назив променљиве |   Тип   | Опис |
+    | 1. P             | double  | Површина основе купе |
+    | 2. h             | double  | Висина купе |
+    | 3.  V            | double  | Израчунава се као запремина купе |
 
