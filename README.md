@@ -15,19 +15,23 @@ $$
 
 ##Решење 
 
-using System;
 
-class Program
-  {
- static void Main()
-{
-Console.Write("Unesi površinu P: ");
-double P = Convert.ToDouble(Console.ReadLine());
+    using System;
 
-Console.Write("Unesi visinu h: ");
-double h = Convert.ToDouble(Console.ReadLine());
+    class Program
+    {
+  
+     static void Main()
+ 
+     {
 
-double V = (1.0 / 3.0) * P * h;
+     Console.Write("Unesi površinu P: ");
+     double P = Convert.ToDouble(Console.ReadLine());
+     
+    Console.Write("Unesi visinu h: ");
+    double h = Convert.ToDouble(Console.ReadLine());
+ 
+    double V = (1.0 / 3.0) * P * h;
 
     Console.WriteLine("Zapremina kupe je: " + V);
      } 
