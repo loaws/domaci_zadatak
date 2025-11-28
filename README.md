@@ -18,7 +18,7 @@ $$
 using System;
 
 class Program
-{
+  {
  static void Main()
 {
 Console.Write("Unesi površinu P: ");
@@ -30,9 +30,9 @@ double h = Convert.ToDouble(Console.ReadLine());
 double V = (1.0 / 3.0) * P * h;
 
     Console.WriteLine("Zapremina kupe je: " + V);
-  } 
-}
-
+     } 
+    }
+ 
 Тест примери
 
 Тест пример 1 
@@ -51,7 +51,7 @@ Zapremina kupe je: 15
 Press any key to continue . . .
 
 Објекти
-| Назив променљиве |   Тип   |             Опис                 |
+| Назив променљиве |   Тип   | Опис |
 | 1. P             | double  | Површина основе купе |
 | 2. h             | double  | Висина купе |
 | 3.  V            | double  | Израчунава се као запремина купе |
