@@ -14,7 +14,7 @@
 
 ###Алгоритамска шема
 
-    <img width="325" height="883" alt="Treba" src="https://github.com/user-attachments/assets/195def61-d75e-482f-a70d-77b86608b327" />
+<img width="325" height="883" alt="Treba" src="https://github.com/user-attachments/assets/195def61-d75e-482f-a70d-77b86608b327" />
 
 ##Решење 
 
