@@ -60,10 +60,12 @@ $$
     Press any key to continue . . .
 
    ### Објекти
-| Назив променљиве | Тип |Опис |
-|P|double|Површина основе купе|
-| h|double| Висина купе|
-| V  | double| Израчунава се као запремина купе |
+| Naziv promenljive | Tip    | Opis                          |
+|-------------------|--------|-------------------------------|
+| P                 | double | Površina osnove kupe          |
+| h                 | double | Visina kupe                   |
+| V                 | double | Izračunava se kao zapremina   |
+
 
 
 
