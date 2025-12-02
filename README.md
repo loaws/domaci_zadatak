@@ -43,7 +43,6 @@ $$
 ```
  
 ### Тест примери
-
     Тест пример 1 
     Unesi povrsinu P: 10
     Unesi visinu h: 2
