@@ -3,7 +3,7 @@
 # Домаћи задатак из Техничке документације
 
 ## Задатак
-Програм који на основу унете површине P и висине h израчунава запремину купе V.
+Програм који на основу унете *површине* *P* и *висине* *h* израчунава *запремину* купе *V*.
 
 ### Formula
 
@@ -61,9 +61,9 @@ $$
    
 | Naziv promenljive | Tip    | Opis                          |
 |-------------------|--------|-------------------------------|
-| P                 | double | Površina osnove kupe          |
-| h                 | double | Visina kupe                   |
-| V                 | double | Izračunava se kao zapremina   |
+| `P`                 | `double` | Površina osnove kupe          |
+| `h`                 | `double` | Visina kupe                   |
+| `V`                 | `double` | Izračunava se kao zapremina   |
 
 
 
